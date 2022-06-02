@@ -1,1 +1,1 @@
-This is a test text file, for Git training purposes only. 
+This is a test text file, for Git training purposes only, so in due time my story will come.
